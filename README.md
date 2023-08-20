@@ -1,4 +1,4 @@
-# Estudo de Scala (iniciantes)
+# Estudo de Scala (iniciante)
 
 Este repositório foi criado para exibir os recursos e exemplos que me ajudaram a aprender os conceitos básicos da linguagem de programação Scala.
 
